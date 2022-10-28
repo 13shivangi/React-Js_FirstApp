@@ -1,0 +1,15 @@
+.boxStyle{
+    padding:30px;
+    border-style: dashed;
+    font-size: 25px;
+    border-radius: 20px;
+}
+.badge{
+    background-color: red;
+    padding: 7px;
+    border-radius: 25px;
+    color: white;
+    font-weight: bold;
+    display: inline;
+    margin-inline-start: -5px;
+}
